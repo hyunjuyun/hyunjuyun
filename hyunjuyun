@@ -1,0 +1,60 @@
+──────────────────────────────
+          🔹 AI Research & Development Portfolio 🔹
+──────────────────────────────
+
+📛 이름: 윤현주(Hyunju Yun)
+📩 이메일: soda5874@korea.ac.kr   
+──────────────────────────────
+
+──────────────────────────────
+🔹 연구 요약 (Research Summary)
+──────────────────────────────
+🎓 연구 분야: AI, FSCIL, Anomaly Detection  
+📄 논문: FSCIL 3편 (1저자 1편, 2저자 2편)  
+🚀 프로젝트 경험: 2개 (태양광 이상 탐지, Apple Watch ECG)  
+──────────────────────────────
+🔹 연구 방향
+──────────────────────────────
+저는 Few-Shot Class-Incremental Learning(FSCIL)과 
+이상치 탐지(Anomaly Detection) 연구를 수행하며, 
+Deep Learning 기반 AI 모델의 실용적인 적용을 탐구하고 있습니다.
+──────────────────────────────
+
+──────────────────────────────
+🔹 Few-Shot Class-Incremental Learning via Prompt Tuning
+──────────────────────────────
+📌 1저자 
+🛠 Keywords: FSCIL, Prompt Tuning, Few-Shot Learning  
+──────────────────────────────
+🎯 연구 개요:
+- FSCIL 환경에서 Prompt Tuning을 활용한 성능 개선 연구  
+──────────────────────────────
+🔹 ResNet-based Few-Shot Class-Incremental Learning
+──────────────────────────────
+📌 2저자 | 📅 2024 | 🏆 ICPR 2024  
+📌 2저자 | 📅 2025 | Under Review
+🛠 Keywords: FSCIL, ResNet, Feature Learning  
+──────────────────────────────
+🎯 연구 개요:
+- ResNet을 활용한 FSCIL 모델 연구  
+──────────────────────────────
+
+──────────────────────────────
+🔹 태양광 패널 이상치 탐지 프로젝트 (Solar Panel Anomaly Detection)
+──────────────────────────────
+🎯 목표: 태양광 패널 데이터에서 이상 패턴 탐지  
+🛠 사용 기술: Python, Scikit-learn  
+──────────────────────────────
+🚀 주요 성과:
+- Feature Engineering 기법 적용
+- 이상치에 따라 adaptive하게 threshold를 정해서 이상치 부분 하이라이트
+──────────────────────────────
+🔹 Apple Watch ECG Signal Anomaly Detection
+──────────────────────────────
+🎯 목표: Apple Watch ECG 데이터 기반 이상 탐지  
+🛠 사용 기술: PyTorch, Time-Series Analysis  
+──────────────────────────────
+🚀 주요 성과:
+- Anomaly Detection AI 모델 기반 이상 탐지 모델 적용   
+- Apple Watch 심전도 데이터 분석
+──────────────────────────────
