@@ -7,9 +7,9 @@
 
 ## 🔬 Research Summary
 
-- 🎓 Research Areas: AI, FSCIL, Anomaly Detection  
-- 📄 Papers: FSCIL 2편, 시각화 1편, 스마트워치 ECG 이상치 감지 1편  
-- 🚀 Projects: 태양광 패널 이상 탐지, Apple Watch ECG  
+🎓 Research Areas: AI, FSCIL, Anomaly Detection  
+📄 Papers: FSCIL 2편, 시각화 1편, 스마트워치 ECG 이상치 감지 1편  
+🚀 Projects: 태양광 패널 이상 탐지, Smart Watch ECG  
 
 ---
 
